@@ -1,26 +1,34 @@
 User-Agent: *
 Allow: /
+Disallow: /guides/claude-gtm-setup-guide.pdf
 
 User-Agent: GPTBot
 Allow: /
+Disallow: /guides/claude-gtm-setup-guide.pdf
 
 User-Agent: OAI-SearchBot
 Allow: /
+Disallow: /guides/claude-gtm-setup-guide.pdf
 
 User-Agent: ChatGPT-User
 Allow: /
+Disallow: /guides/claude-gtm-setup-guide.pdf
 
 User-Agent: PerplexityBot
 Allow: /
+Disallow: /guides/claude-gtm-setup-guide.pdf
 
 User-Agent: ClaudeBot
 Allow: /
+Disallow: /guides/claude-gtm-setup-guide.pdf
 
 User-Agent: Claude-SearchBot
 Allow: /
+Disallow: /guides/claude-gtm-setup-guide.pdf
 
 User-Agent: Google-Extended
 Allow: /
+Disallow: /guides/claude-gtm-setup-guide.pdf
 
 Host: https://tothesky.agency
 Sitemap: https://tothesky.agency/sitemap.xml
