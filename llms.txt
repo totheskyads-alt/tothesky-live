@@ -8,22 +8,101 @@
 - Contact: contact@tothesky.agency · WhatsApp +356 79522098.
 
 ## Servicii
-- Reclame Facebook & Instagram: reclame care aduc vânzări, nu doar like-uri. https://tothesky.agency/ro/servicii/reclame-facebook-instagram/
-- Reclame Google: apari când clientul te caută, campanii care aduc cereri și comenzi. https://tothesky.agency/ro/servicii/reclame-google/
-- Reclame TikTok: conținut nativ care prinde la public. https://tothesky.agency/ro/servicii/reclame-tiktok/
-- Creare site-uri: site-uri rapide, clare, făcute să vândă, mobile-first. https://tothesky.agency/ro/servicii/creare-site-uri/
-- Email marketing: vânzări repetate din lista de contacte. https://tothesky.agency/ro/servicii/email-marketing/
-- Strategie de creștere: audit 360°, plan pe 90 de zile, raportare pe vânzări. https://tothesky.agency/ro/servicii/strategie-de-crestere/
+- [Reclame Facebook și Instagram pentru vânzări](https://tothesky.agency/ro/servicii/reclame-facebook-instagram/): Reclame Facebook și Instagram care aduc vânzări, nu doar like-uri. Testăm reclame noi săptămânal și măsurăm corect fiecare comandă. Audit gratuit.
+- [Reclame Google pentru clienți gata să cumpere](https://tothesky.agency/ro/servicii/reclame-google/): Reclame Google care aduc cereri și comenzi: Search, Shopping și Performance Max, cu tracking verificat. Rezultate reale, audit gratuit, fără contract.
+- [Reclame TikTok cu conținut nativ care vinde](https://tothesky.agency/ro/servicii/reclame-tiktok/): Reclame TikTok cu conținut nativ și UGC, care nu par reclame. Testăm multe variante, păstrăm ce vinde și îți spunem cinstit dacă merită. Audit gratuit.
+- [Creare site-uri optimizate SEO care vând](https://tothesky.agency/ro/servicii/creare-site-uri/): Creare site-uri rapide, clare și optimizate SEO, făcute să aducă cereri. Formulare pe WhatsApp sau email și tracking din prima zi. Discuție gratuită.
+- [Email marketing automatizat pentru vânzări](https://tothesky.agency/ro/servicii/email-marketing/): Email marketing pentru vânzări repetate: automatizări de bun venit, coș abandonat și reactivare, plus newslettere care se citesc. Conform GDPR.
+- [Strategie de marketing cu plan pe 90 de zile](https://tothesky.agency/ro/servicii/strategie-de-crestere/): Strategie de marketing pentru afaceri mici: audit 360° gratuit, plan pe 90 de zile și execuție pe reclame, site și măsurare. Raportăm pe vânzări.
+
+## Studii de caz
+- [Regal Pet · Studii de caz](https://tothesky.agency/ro/studii-de-caz/regal-pet/): Magazin online de produse pentru animale. Am crescut contul de la 8x la 13x ROAS, optimizând pentru vânzări reale, nu pentru clickuri.
+- [Matter of Care · Studii de caz](https://tothesky.agency/ro/studii-de-caz/matter-of-care/): Servicii de îngrijire la domiciliu. Campanii Google care aduc cereri reale de la familii, la cost mic.
+- [Expert English · Studii de caz](https://tothesky.agency/ro/studii-de-caz/expert-english/): Școală de engleză. Campanii Google care aduc cereri constante de înscriere, la cost mic.
+- [Eva Car Mats · Studii de caz](https://tothesky.agency/ro/studii-de-caz/eva-car-mats/): Covorașe auto pe măsură, în Irlanda. Am refăcut site-ul și am pornit reclame pe Meta care aduc lead-uri pe WhatsApp la cost mic.
+- [Cleanix · Studii de caz](https://tothesky.agency/ro/studii-de-caz/cleanix/): Firmă de curățenie în Chicago. Reclame Meta care aduc cereri reale de la clienți, la cost mic.
+- [Transfer Confort Line · Studii de caz](https://tothesky.agency/ro/studii-de-caz/transfer-confort-line/): Transferuri private în Elveția. Site curat, multilingv, cu rezervări direct pe WhatsApp și tracking conform legii.
+- [DeLucru · Studii de caz](https://tothesky.agency/ro/studii-de-caz/delucru/): Marketplace românesc unde nevoia întâlnește priceperea. Am construit poziționarea, copy-ul în limbaj foarte simplu și direcția SEO.
+- [Vans Parts Midlands · Studii de caz](https://tothesky.agency/ro/studii-de-caz/vans-parts-midlands/): Piese pentru dube în UK. Un site nou care înlocuiește formularele cu contact direct pe WhatsApp și telefon.
+- [ProMet · Studii de caz](https://tothesky.agency/ro/studii-de-caz/promet/): Atelier metalurgic fără identitate online. I-am creat numele, logo-ul și un site cu portofoliu de lucrări.
+- [SignlyPDF · Studii de caz](https://tothesky.agency/ro/studii-de-caz/signlypdf/): Tool din SUA pentru semnat PDF-uri. Am identificat de ce reclamele aduceau înscrieri, dar zero bani, și am resetat campaniile spre plăți.
+- [FlySmile Clinic · Studii de caz](https://tothesky.agency/ro/studii-de-caz/flysmile-clinic/): Turism dentar pentru pacienți din Italia și Germania. Am reparat tracking-ul blocat și o campanie lansată pe piața greșită.
+- [Arillu · Studii de caz](https://tothesky.agency/ro/studii-de-caz/arillu/): Genți și posete din piele, cu 6 magazine în Chișinău. Strategie de promoții locale care duc oamenii în magazin prin Google Maps.
+
+## Industrii
+- [Marketing pentru magazine online care vând](https://tothesky.agency/ro/industrii/magazine-online/): Atrage cumpărători potriviți cu reclame relevante și un magazin online ușor de folosit. Te ajutăm să legi promovarea de ceea ce contează: comenzile.
+- [Marketing pentru clinici și turism dentar](https://tothesky.agency/ro/industrii/clinici-dentare/): Ajută pacienții să înțeleagă tratamentele și să îți cunoască echipa. Creăm reclame și site-uri pentru clinici stomatologice, inclusiv turism dentar.
+- [Marketing pentru școli și cursuri de limbi](https://tothesky.agency/ro/industrii/scoli-si-cursuri/): Ajută viitorii cursanți să aleagă cu încredere. Creăm reclame și site-uri care explică oferta școlii tale și fac drumul către înscriere mai simplu.
+- [Marketing pentru îngrijire și ajutor acasă](https://tothesky.agency/ro/industrii/servicii-la-domiciliu/): Ajută familiile să găsească sprijinul potrivit pentru cei dragi. Creăm reclame și site-uri care explică serviciile la domiciliu și inspiră încredere.
+- [Marketing pentru firme de curățenie locală](https://tothesky.agency/ro/industrii/firme-de-curatenie/): Atrage cereri pentru locuințe și birouri din zonele în care lucrezi. Creăm reclame și site-uri care explică serviciile și ajută clienții să ceară o ofertă.
+- [Marketing pentru afaceri și servicii locale](https://tothesky.agency/ro/industrii/servicii-locale/): Fii prezent când oamenii caută servicii în zona ta. Creăm reclame și site-uri care îi ajută să afle ce oferi, unde te găsesc și cum pot lua legătura.
+
+## Ghiduri
+- [Claude + Microsoft Clarity: ghid gratuit](https://tothesky.agency/ro/ghiduri/claude-microsoft-clarity/): Conectorul oficial Microsoft pentru Clarity, setat cu Claude: afli de ce pleacă oamenii de pe pagină și ce înregistrări merită văzute. Ghid gratuit, cu prompturi.
+- [Claude + Google Analytics 4: ghid gratuit](https://tothesky.agency/ro/ghiduri/claude-google-analytics-4/): Conectorul oficial Google pentru GA4, setat cu Claude: întrebi în cuvinte simple ce canal aduce cumpărători sau unde se rupe pâlnia. Ghid gratuit, cu prompturi.
+- [Claude + Google Tag Manager: ghid gratuit](https://tothesky.agency/ro/ghiduri/claude-google-tag-manager/): Setup-ul pe care îl folosim: Claude face tag-urile și triggerele în GTM, le testează în Chrome și îți spune ce merge. Ghid gratuit, cu prompturi de copiat.
+- [Google Ads sau Facebook Ads: ce alegi acum?](https://tothesky.agency/ro/ghiduri/google-ads-vs-facebook-ads/): Află când alegi Google Ads, când merită Facebook Ads și cum le combini în funcție de ce vinzi, cererea existentă și felul în care cumpără clienții tăi.
+- [Cât costă reclamele Facebook și Instagram?](https://tothesky.agency/ro/ghiduri/cat-costa-reclamele-facebook/): Află ce influențează costul reclamelor pe Facebook și Instagram, cum alegi bugetul de test și cum verifici dacă aduc rezultate profitabile pentru afacere.
+- [Ce este ROAS și când este bun pentru afacere](https://tothesky.agency/ro/ghiduri/ce-este-roas/): Află cum calculezi ROAS, de ce un rezultat bun depinde de marjă și cum verifici dacă reclamele aduc profit, cu exemplul real Regal Pet pe Google Ads.
+- [Cum alegi o agenție de marketing potrivită](https://tothesky.agency/ro/ghiduri/cum-alegi-agentia-de-marketing/): Află cum alegi o agenție de marketing: ce întrebări să pui, ce verifici în contract și cum separi rezultatele reale de cifrele care doar arată bine online.
+- [Consent Mode v2 și GDPR: ghid pentru tracking](https://tothesky.agency/ro/ghiduri/tracking-gdpr-consent-mode/): Află cum funcționează Consent Mode v2, ce afectează măsurarea conversiilor și cum verifici un tracking care respectă alegerile vizitatorilor pe site.
 
 ## Rezultate reale (cifre confirmate din conturile clienților)
-- Regal Pet (eCommerce produse animale): ROAS crescut de la 8,2x la ~13x pe cont, vârfuri de 14-18x pe Performance Max, peste 270.000 RON vânzări pe lună. https://tothesky.agency/ro/studii-de-caz/regal-pet/
-- Matter of Care (îngrijire la domiciliu): 64 de cereri de la familii la ~15 € pe contact. https://tothesky.agency/ro/studii-de-caz/matter-of-care/
-- Expert English (școală de engleză): 139 de cereri de înscriere, cost mediu ~16 $ pe cerere (de la 6,67 $ pe Performance Max). https://tothesky.agency/ro/studii-de-caz/expert-english/
+- Regal Pet (magazin online de produse pentru animale): ROAS crescut de la 8,2x la ~13x pe cont, vârfuri de 14-18x pe Performance Max, peste 270.000 RON vânzări pe lună, cu ~3.400 € pe lună buget de reclame (sub 6% din venit).
+- Eva Car Mats: 1.018 lead-uri la ~0,57 € pe lead (Meta Ads).
+- Matter of Care (îngrijire la domiciliu): 64 de cereri de la familii la ~15 € pe contact.
+- Expert English (școală de engleză): 139 de cereri de înscriere, de la 6,67 $ pe cerere pe Performance Max.
+- Cleanix (curățenie, Chicago): 37 de cereri la ~12,27 $.
 
-## Cum lucrăm
-1. Audit gratuit: ne uităm în conturile și site-ul tău și vedem de unde poți câștiga mai mult.
-2. Plan pe 90 de zile: campanii, buget, obiective. Tu aprobi, noi executăm.
-3. Creștere: lansăm, măsurăm săptămânal, punem buget pe ce vinde, raportăm lunar.
 
-## Limbi
-Site disponibil în română (https://tothesky.agency/ro/) și engleză (https://tothesky.agency/en/).
+# English
+
+> To The Sky is a performance marketing and web design agency based in Malta, run by Mihai and Diana Jdovanu. Facebook, Instagram, Google and TikTok ads, websites that sell, and growth strategy. We report on real sales. Free audit, no contract. Contact: contact@tothesky.agency · WhatsApp +356 79522098.
+
+## Services
+- [Facebook and Instagram Ads That Drive Sales](https://tothesky.agency/en/services/reclame-facebook-instagram/): Facebook and Instagram ads that bring sales, not just likes. We test new ads every week and track every order properly. Free audit, no contract.
+- [Google Ads to Reach Customers Ready to Buy](https://tothesky.agency/en/services/reclame-google/): Google Ads that bring enquiries and orders: Search, Shopping and Performance Max, with verified tracking. Real results, free audit, no contract.
+- [TikTok Ads with Native Content That Sells](https://tothesky.agency/en/services/reclame-tiktok/): TikTok ads with native and UGC content that does not feel like advertising. We test many versions, keep what sells and tell you honestly if it is worth it.
+- [Fast SEO Web Design to Grow Your Business](https://tothesky.agency/en/services/creare-site-uri/): Fast, clear, SEO-optimized websites built to bring enquiries. Forms connected to WhatsApp or email and tracking from day one. Free discovery call.
+- [Email Marketing Automation for Repeat Sales](https://tothesky.agency/en/services/email-marketing/): Email marketing for repeat sales: welcome, abandoned cart and win-back automations, plus newsletters people actually read. GDPR-compliant.
+- [Marketing Strategy with a 90-Day Growth Plan](https://tothesky.agency/en/services/strategie-de-crestere/): Marketing strategy for small businesses: free 360° audit, a 90-day plan and hands-on work on ads, website and tracking. We report on real sales.
+
+## Case studies
+- [Regal Pet · Case studies](https://tothesky.agency/en/case-studies/regal-pet/): Online pet store. We grew the account from 8x to 13x ROAS by optimising for real sales, not clicks.
+- [Matter of Care · Case studies](https://tothesky.agency/en/case-studies/matter-of-care/): Home care services. Google campaigns that bring real requests from families, at a low cost.
+- [Expert English · Case studies](https://tothesky.agency/en/case-studies/expert-english/): English school. Google campaigns that bring steady enrolment requests, at a low cost.
+- [Eva Car Mats · Case studies](https://tothesky.agency/en/case-studies/eva-car-mats/): Custom car mats in Ireland. We rebuilt the site and launched Meta ads that bring WhatsApp leads at a low cost.
+- [Cleanix · Case studies](https://tothesky.agency/en/case-studies/cleanix/): Cleaning company in Chicago. Meta ads that bring real client requests at a low cost.
+- [Transfer Confort Line · Case studies](https://tothesky.agency/en/case-studies/transfer-confort-line/): Private transfers in Switzerland. A clean, multilingual site with bookings straight to WhatsApp and compliant tracking.
+- [DeLucru · Case studies](https://tothesky.agency/en/case-studies/delucru/): A Romanian marketplace where need meets skill. We built the positioning, the very simple copy direction and SEO.
+- [Vans Parts Midlands · Case studies](https://tothesky.agency/en/case-studies/vans-parts-midlands/): Van parts in the UK. A new site that replaces forms with direct WhatsApp and phone contact.
+- [ProMet · Case studies](https://tothesky.agency/en/case-studies/promet/): A metal workshop with no online identity. We created its name, logo and portfolio site.
+- [SignlyPDF · Case studies](https://tothesky.agency/en/case-studies/signlypdf/): PDF signing tool in the US. We found why ads were bringing sign-ups but no money, then reset the campaigns toward payments.
+- [FlySmile Clinic · Case studies](https://tothesky.agency/en/case-studies/flysmile-clinic/): Dental tourism for patients in Italy and Germany. We fixed blocked tracking and a campaign launched in the wrong market.
+- [Arillu · Case studies](https://tothesky.agency/en/case-studies/arillu/): Leather bags and handbags, with 6 stores in Chisinau. A local promo strategy that drives people in-store through Google Maps.
+
+## Industries
+- [eCommerce marketing that helps you sell more](https://tothesky.agency/en/industries/magazine-online/): Reach the right shoppers with relevant ads and an online store that makes buying easy. Connect your marketing to what matters most: customer orders.
+- [Dental marketing for clinics and tourism](https://tothesky.agency/en/industries/clinici-dentare/): Help patients understand their treatment options and get to know your team. We create ads and websites for dental clinics, including dental tourism.
+- [Marketing for language schools and courses](https://tothesky.agency/en/industries/scoli-si-cursuri/): Help future students choose with confidence. We create ads and websites that explain what your school offers and make the path to enrolment easier.
+- [Marketing for home care and family support](https://tothesky.agency/en/industries/servicii-la-domiciliu/): Help families find the right support for their loved ones. We create ads and websites that explain your home care services and build trust from the start.
+- [Marketing for home and office cleaning firms](https://tothesky.agency/en/industries/firme-de-curatenie/): Attract home and office cleaning enquiries from the areas you serve. We create ads and websites that explain your services and make requesting a quote easy.
+- [Marketing for local businesses and services](https://tothesky.agency/en/industries/servicii-locale/): Be there when people search for services in your area. We create ads and websites that show what you offer, where to find you and how to get in touch.
+
+## Guides
+- [Claude + Microsoft Clarity: Free Setup Guide](https://tothesky.agency/en/guides/claude-microsoft-clarity/): The official Microsoft connector for Clarity, set up with Claude: find out why people leave a page and which recordings are worth watching. Free guide with prompts.
+- [Claude + Google Analytics 4: Free Setup Guide](https://tothesky.agency/en/guides/claude-google-analytics-4/): The official Google connector for GA4, set up with Claude: ask which channel brings buyers or where your funnel breaks, in plain English. Free guide with prompts.
+- [Claude + Google Tag Manager: Free Setup Guide](https://tothesky.agency/en/guides/claude-google-tag-manager/): The setup we use: Claude builds your GTM tags and triggers, tests them in Chrome and tells you what works. Free step-by-step guide with prompts to copy.
+- [Google Ads vs Facebook Ads: Which to Choose?](https://tothesky.agency/en/guides/google-ads-vs-facebook-ads/): Learn when to choose Google Ads, when Facebook Ads makes sense, and how to combine them based on your offer, customer demand and how your buyers decide.
+- [Facebook and Instagram ads: What affects cost?](https://tothesky.agency/en/guides/cat-costa-reclamele-facebook/): Learn what affects Facebook and Instagram advertising costs, how to set a useful test budget, and how to tell whether your ads pay off for your business.
+- [What Is ROAS and How Good Does It Need to Be?](https://tothesky.agency/en/guides/ce-este-roas/): Learn how to calculate ROAS, why a good result depends on your margins, and how to check whether ads generate profit, with a real Regal Pet example.
+- [How to Choose the Right Marketing Agency](https://tothesky.agency/en/guides/cum-alegi-agentia-de-marketing/): Learn how to choose a marketing agency, what questions to ask, what to check in the contract, and how to tell real sales results from vanity metrics.
+- [Consent Mode v2: a practical GDPR tracking guide](https://tothesky.agency/en/guides/tracking-gdpr-consent-mode/): Learn how Consent Mode v2 works, what affects conversion measurement, and how to check that your website tracking respects each visitor’s consent choices.
+
+## Cum lucrăm / How we work
+1. Audit gratuit / Free audit.
+2. Plan pe 90 de zile / 90-day plan.
+3. Creștere, raportare lunară pe vânzări / Growth with monthly sales reporting.
+
+## Limbi / Languages
+Română: https://tothesky.agency/ro/ · English: https://tothesky.agency/en/
