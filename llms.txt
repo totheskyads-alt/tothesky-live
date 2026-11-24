@@ -17,10 +17,10 @@
 
 ## Studii de caz
 - [Regal Pet: de la 8,2x la ~13x ROAS](https://tothesky.agency/ro/studii-de-caz/regal-pet/): Regal Pet: ROAS de la 8,2x la ~13x și peste 270.000 RON vânzări pe lună. Am optimizat campaniile Google Ads pentru vânzări reale, nu pentru clickuri.
-- [Matter of Care: 64 de cereri de la familii](https://tothesky.agency/ro/studii-de-caz/matter-of-care/): Matter of Care: 64 de cereri de la familii, la ~15 € pe contact. Am creat campanii Google pentru servicii de îngrijire la domiciliu, cu ~977 € investiți.
-- [Expert English: 139 de cereri de înscriere](https://tothesky.agency/ro/studii-de-caz/expert-english/): Expert English: 139 de cereri de înscriere, la un cost mediu de ~16 $. Am rulat campanii Google pentru școala de engleză, inclusiv Performance Max.
+- [Matter of Care: cereri la ~15 € de la familii](https://tothesky.agency/ro/studii-de-caz/matter-of-care/): Matter of Care: cereri reale de la familii, la ~15 € pe contact. Am creat campanii Google pentru servicii de îngrijire la domiciliu în Malta.
+- [Expert English: înscrieri de la 6,67 $ pe cerere](https://tothesky.agency/ro/studii-de-caz/expert-english/): Expert English: cereri de înscriere la ~16 $ în medie și de la 6,67 $ pe Performance Max. Am rulat campanii Google pentru școala de engleză.
 - [Eva Car Mats: peste 1.000 de lead-uri](https://tothesky.agency/ro/studii-de-caz/eva-car-mats/): Eva Car Mats: peste 1.000 de lead-uri pe WhatsApp, la ~0,57 € fiecare. Am refăcut site-ul și am lansat reclame Meta pentru covorașe auto în Irlanda.
-- [Cleanix: 37 de cereri prin reclame Meta](https://tothesky.agency/ro/studii-de-caz/cleanix/): Cleanix: 37 de cereri de la clienți în prima lună, la ~12 $ fiecare. Am rulat reclame Meta pentru firma de curățenie din Chicago, cu ~450 $ investiți.
+- [Cleanix: cereri la ~12 $ prin reclame Meta](https://tothesky.agency/ro/studii-de-caz/cleanix/): Cleanix: cereri reale de la clienți la ~12 $ fiecare, încă din prima lună. Am rulat reclame Meta pentru firma de curățenie din Chicago.
 - [Transfer Confort Line: site multilingv](https://tothesky.agency/ro/studii-de-caz/transfer-confort-line/): Transfer Confort Line: site multilingv lansat pentru transferuri private în Elveția. Am simplificat rezervările pe WhatsApp și asigurat măsurarea conformă.
 - [DeLucru: poziționare, conținut și SEO](https://tothesky.agency/ro/studii-de-caz/delucru/): DeLucru: poziționare mai clară și conținut coerent. Am definit mesajele și direcția SEO pentru marketplace, care apare deja organic în răspunsurile AI.
 - [Vans Parts Midlands: site cu cereri reale](https://tothesky.agency/ro/studii-de-caz/vans-parts-midlands/): Vans Parts Midlands: un site care aduce cereri reale, fără spam. Am creat un site pentru piese de dube în UK, cu contact direct pe WhatsApp și telefon.
@@ -38,9 +38,9 @@
 - [Marketing și reclame pentru servicii locale](https://tothesky.agency/ro/industrii/servicii-locale/): Marketing pentru servicii locale, cu reclame și site-uri adaptate afacerii tale. Vezi cum măsurăm cererile, rezervările și interesul pentru locație.
 
 ## Ghiduri
-- [Claude + Microsoft Clarity: ghid gratuit](https://tothesky.agency/ro/ghiduri/claude-microsoft-clarity/): Conectorul oficial Microsoft Clarity, setat cu Claude: afli de ce pleacă oamenii și ce înregistrări merită văzute. Ghid gratuit, cu prompturi utile.
-- [Claude + Google Analytics 4: ghid gratuit](https://tothesky.agency/ro/ghiduri/claude-google-analytics-4/): Conectorul oficial Google pentru GA4, setat cu Claude: afli ce canal aduce cumpărători și unde se rupe pâlnia. Ghid gratuit, cu prompturi simple.
-- [Claude + Google Tag Manager: ghid gratuit](https://tothesky.agency/ro/ghiduri/claude-google-tag-manager/): Setup-ul nostru: Claude creează tag-uri și triggere în GTM, le testează în Chrome și îți spune ce merge. Ghid gratuit, cu prompturi gata de copiat.
+- [Claude și Microsoft Clarity: conectare prin MCP](https://tothesky.agency/ro/ghiduri/claude-microsoft-clarity/): Conectează Claude la Microsoft Clarity cu un API token și serverul MCP. Vezi pașii, comanda exactă, prompturile mele și capcanele de evitat la configurare.
+- [Claude și GA4: conectare la Google Analytics 4](https://tothesky.agency/ro/ghiduri/claude-google-analytics-4/): Conectează Claude la Google Analytics 4 cu Google Analytics MCP. Urmează pașii mei pentru configurare, testare și întrebări utile despre datele din GA4.
+- [Claude și Google Tag Manager: conectare prin MCP](https://tothesky.agency/ro/ghiduri/claude-google-tag-manager/): Conectează Claude la Google Tag Manager prin MCP. Îți arăt configurarea, testele în Chrome și greșelile de evitat. Tu verifici și publici modificările.
 - [Google Ads sau Facebook Ads: ce alegi?](https://tothesky.agency/ro/ghiduri/google-ads-vs-facebook-ads/): Google Ads sau Facebook Ads? Află ce alegi pentru afacerea ta, ce rezultate am obținut pentru clienți și când merită să combini cele două platforme.
 - [Cât costă reclamele pe Facebook în 2026](https://tothesky.agency/ro/ghiduri/cat-costa-reclamele-facebook/): Cât costă reclamele pe Facebook în 2026? Vezi costuri de 0,40 până la 2,62 RON pe click, date din conturile noastre și cum îți calculezi bugetul util.
 - [Ce este ROAS? Formula și calculator gratuit](https://tothesky.agency/ro/ghiduri/ce-este-roas/): Află ce este ROAS, cum îl calculezi și ce prag îți acoperă reclamele. Folosește calculatorul gratuit și compară rezultatul cu marja magazinului tău.
@@ -50,9 +50,9 @@
 ## Rezultate reale (cifre confirmate din conturile clienților)
 - Regal Pet (magazin online de produse pentru animale): ROAS crescut de la 8,2x la ~13x pe cont, vârfuri de 14-18x pe Performance Max, peste 270.000 RON vânzări pe lună, cu ~3.400 € pe lună buget de reclame (sub 6% din venit).
 - Eva Car Mats: 1.018 lead-uri la ~0,57 € pe lead (Meta Ads).
-- Matter of Care (îngrijire la domiciliu): 64 de cereri de la familii la ~15 € pe contact.
-- Expert English (școală de engleză): 139 de cereri de înscriere, de la 6,67 $ pe cerere pe Performance Max.
-- Cleanix (curățenie, Chicago): 37 de cereri la ~12,27 $.
+- Matter of Care (îngrijire la domiciliu): cereri constante de la familii la ~15 € pe contact.
+- Expert English (școală de engleză): cereri de înscriere de la 6,67 $ pe cerere pe Performance Max.
+- Cleanix (curățenie, Chicago): cereri la ~12 $ încă din prima lună.
 
 
 # English
@@ -69,10 +69,10 @@
 
 ## Case studies
 - [Regal Pet: from 8.2x to ~13x ROAS](https://tothesky.agency/en/case-studies/regal-pet/): Regal Pet: ROAS grew from 8.2x to ~13x, with over 270,000 RON in monthly sales. We optimised Google Ads campaigns for actual sales rather than clicks.
-- [Matter of Care: 64 requests from families](https://tothesky.agency/en/case-studies/matter-of-care/): Matter of Care: 64 requests from families at ~€15 per contact, from ~€977 spent. We ran Google campaigns for home care services to bring real enquiries.
-- [Expert English: 139 enrolment requests](https://tothesky.agency/en/case-studies/expert-english/): Expert English: 139 enrolment requests at an average cost of ~$16. We ran Google campaigns for the English school, including Performance Max ads.
+- [Matter of Care: family enquiries at ~€15](https://tothesky.agency/en/case-studies/matter-of-care/): Matter of Care: real family enquiries at ~€15 per contact. We ran Google campaigns for home care services in Malta to bring steady requests.
+- [Expert English: enrolments from $6.67 a request](https://tothesky.agency/en/case-studies/expert-english/): Expert English: enrolment requests at ~$16 on average and from $6.67 on Performance Max. We ran Google campaigns for the English school.
 - [Eva Car Mats: over 1,000 WhatsApp leads](https://tothesky.agency/en/case-studies/eva-car-mats/): Eva Car Mats: over 1,000 WhatsApp leads at ~€0.57 each, from €576 spent on Meta. We rebuilt the site and launched ads for custom car mats in Ireland.
-- [Cleanix: 37 client enquiries through Meta](https://tothesky.agency/en/case-studies/cleanix/): Cleanix: 37 client requests in the first month at ~$12 each, from ~$450 spent. We ran Meta ads for the Chicago cleaning company to bring real enquiries.
+- [Cleanix: enquiries at ~$12 through Meta ads](https://tothesky.agency/en/case-studies/cleanix/): Cleanix: real client enquiries at ~$12 each from the first month. We ran Meta ads for the Chicago cleaning company to bring steady requests.
 - [Transfer Confort Line: multilingual site](https://tothesky.agency/en/case-studies/transfer-confort-line/): Transfer Confort Line: a live multilingual site for private transfers in Switzerland. We simplified WhatsApp bookings and set up compliant measurement.
 - [DeLucru: positioning, content and SEO](https://tothesky.agency/en/case-studies/delucru/): DeLucru: clearer positioning and a coherent content direction. We shaped the copy and SEO for the marketplace, which already appears in AI answers.
 - [Vans Parts Midlands: a site for real enquiries](https://tothesky.agency/en/case-studies/vans-parts-midlands/): Vans Parts Midlands: a site that brings real requests without spam. We built a van parts website for the UK with direct WhatsApp and phone contact.
@@ -90,9 +90,9 @@
 - [Marketing and advertising for local services](https://tothesky.agency/en/industries/servicii-locale/): Marketing for local businesses, with advertising and websites built around your services. See how we measure enquiries, bookings and store interest.
 
 ## Guides
-- [Claude + Microsoft Clarity: Free Setup Guide](https://tothesky.agency/en/guides/claude-microsoft-clarity/): Set up the official Microsoft Clarity connector with Claude to learn why people leave and which recordings to watch. Free guide with prompts.
-- [Claude + Google Analytics 4: Free Setup Guide](https://tothesky.agency/en/guides/claude-google-analytics-4/): Set up the official Google connector for GA4 with Claude. Ask in plain English which channel brings buyers and where funnels break. Free guide with prompts.
-- [Claude + Google Tag Manager: Free Setup Guide](https://tothesky.agency/en/guides/claude-google-tag-manager/): Our setup: Claude builds GTM tags and triggers, tests them in Chrome and tells you what works. Free step-by-step guide with prompts you can copy.
+- [Claude + Microsoft Clarity: MCP Setup Guide](https://tothesky.agency/en/guides/claude-microsoft-clarity/): Connect Claude to Microsoft Clarity with the official MCP server. Follow my setup steps, copy my prompts, and avoid the token and reporting traps.
+- [Claude GA4: Connect to Google Analytics 4](https://tothesky.agency/en/guides/claude-google-analytics-4/): Connect Claude to Google Analytics 4 with Google Analytics MCP. Follow my setup steps, test the connection, and copy the GA4 prompts I use at my agency.
+- [Claude to Google Tag Manager: MCP Setup Guide](https://tothesky.agency/en/guides/claude-google-tag-manager/): Connect Claude to Google Tag Manager with MCP. Follow my setup, build conversion tags, test them in Chrome, and review every change before publishing.
 - [Google Ads vs Facebook Ads: which should you choose?](https://tothesky.agency/en/guides/google-ads-vs-facebook-ads/): Google Ads vs Facebook Ads: learn which fits your business, see results from our client accounts, and find out when combining both platforms makes sense.
 - [How much do Facebook ads cost in 2026?](https://tothesky.agency/en/guides/cat-costa-reclamele-facebook/): How much do Facebook ads cost in 2026? See link click costs from 0.40 to 2.62 RON, figures from our accounts and how to plan a useful ad budget.
 - [What is ROAS? Formula and free ROAS calculator](https://tothesky.agency/en/guides/ce-este-roas/): Learn what ROAS means, how to calculate it and what covers your ad costs. Use the free calculator to compare your results with your store's margin.
