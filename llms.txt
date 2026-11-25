@@ -48,7 +48,7 @@
 - [Consent Mode v2: configurare cu GTM și banner cookie](https://tothesky.agency/ro/ghiduri/tracking-gdpr-consent-mode/): Află cum configurezi Consent Mode v2 cu un banner cookie și GTM, ce fac cei patru parametri și cum verifici acordul pentru Google Ads, GA4 și Meta.
 
 ## Rezultate reale (cifre confirmate din conturile clienților)
-- Regal Pet (magazin online de produse pentru animale): ROAS crescut de la 8,2x la ~13x pe cont, vârfuri de 14-18x pe Performance Max, peste 270.000 RON vânzări pe lună, cu ~3.400 € pe lună buget de reclame (sub 6% din venit).
+- Regal Pet (magazin online de produse pentru animale): ROAS crescut de la 8,2x la ~13x pe cont, vârfuri de 14-18x pe Performance Max, peste 270.000 RON vânzări pe lună, cu ~3.400 € pe lună buget de reclame (în jur de 6% din venit).
 - Eva Car Mats: 1.018 lead-uri la ~0,57 € pe lead (Meta Ads).
 - Matter of Care (îngrijire la domiciliu): cereri constante de la familii la ~15 € pe contact.
 - Expert English (școală de engleză): cereri de înscriere de la 6,67 $ pe cerere pe Performance Max.
