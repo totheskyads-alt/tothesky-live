@@ -61,14 +61,14 @@
 <xhtml:link rel="alternate" hreflang="ro" href="https://tothesky.agency/ro/ghiduri/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tothesky.agency/en/guides/" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://tothesky.agency/ro/ghiduri/" />
-<lastmod>2026-11-24T00:00:00.000Z</lastmod>
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://tothesky.agency/en/guides/</loc>
 <xhtml:link rel="alternate" hreflang="ro" href="https://tothesky.agency/ro/ghiduri/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tothesky.agency/en/guides/" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://tothesky.agency/ro/ghiduri/" />
-<lastmod>2026-11-24T00:00:00.000Z</lastmod>
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://tothesky.agency/ro/despre/</loc>
@@ -489,6 +489,20 @@
 <xhtml:link rel="alternate" hreflang="en" href="https://tothesky.agency/en/guides/google-ads-vs-facebook-ads/" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://tothesky.agency/ro/ghiduri/google-ads-vs-facebook-ads/" />
 <lastmod>2026-11-24T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://tothesky.agency/ro/ghiduri/cat-costa-google-ads/</loc>
+<xhtml:link rel="alternate" hreflang="ro" href="https://tothesky.agency/ro/ghiduri/cat-costa-google-ads/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tothesky.agency/en/guides/cat-costa-google-ads/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://tothesky.agency/ro/ghiduri/cat-costa-google-ads/" />
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://tothesky.agency/en/guides/cat-costa-google-ads/</loc>
+<xhtml:link rel="alternate" hreflang="ro" href="https://tothesky.agency/ro/ghiduri/cat-costa-google-ads/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tothesky.agency/en/guides/cat-costa-google-ads/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://tothesky.agency/ro/ghiduri/cat-costa-google-ads/" />
+<lastmod>2026-11-25T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://tothesky.agency/ro/ghiduri/cat-costa-reclamele-facebook/</loc>
